@@ -8,15 +8,15 @@ Install npm for run to project cli: npm install
 
 ## Install bootstrap
 
-Install npm bootstrap for bootstrap framework cli: npm install --save bootstrap
+Install npm bootstrap for bootstrap framework cli: `npm install --save bootstrap`
 
 ## Install jquery
 
-Install npm jquery for jquery cli: npm install --save jquery
+Install npm jquery for jquery cli: `npm install --save jquery`
 
 ## Install Firebase database
 
-Install npm firebase Data Base cli: npm install --save firebase angularfire2
+Install npm firebase Data Base cli: `npm install --save firebase angularfire2`
 
 ## Development server
 
